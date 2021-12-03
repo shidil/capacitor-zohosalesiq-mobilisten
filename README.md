@@ -2,6 +2,8 @@
 
 A Capacitor plugin for the Zoho SalesIQ Mobilisten SDK
 
+Based on [zoho/SalesIQ-Mobilisten-Cordova](https://github.com/zoho/SalesIQ-Mobilisten-Cordova)
+
 ## Install
 
 ```bash
